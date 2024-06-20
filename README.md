@@ -1,5 +1,5 @@
 # Instacart-Grocery-Basket-Analysis-05-2024
-This repository contains Python scripts and analyses from the Instacart Grocery Basket Analysis project. Acting as an analyst for Instacart, I delved into their sales data to uncover hidden patterns. The project involved exploring customer purchasing behaviours and deriving insights to inform targeted marketing strategies. The primary goal of this project is to refine Instacart’s market segmentation strategies by conducting thorough exploratory analysis using Python. 
+This repository contains Python scripts and analyses from the Instacart Grocery Basket Analysis project. Acting as an analyst for Instacart, I delved into their sales data to uncover hidden patterns. The project explored customer purchasing behaviours and derived insights to inform targeted marketing strategies. The primary goal of this project is to refine Instacart’s market segmentation strategies by conducting a thorough exploratory analysis using Python. 
 # Instacart Data Analysis Project
 # Objectives 
 In this project, I aim to: 
@@ -14,9 +14,10 @@ Instacart, an established online grocery platform, seeks to refine its marketing
 2. When do customers tend to spend the most? 
 3. How can product price ranges improve marketing strategies? 
 4. Which product departments are most popular? 
-5. How do customer demographics and behaviours vary in terms of brand loyalty, regional differences, and purchasing patterns?
+5. How do customer demographics and behaviours regarding brand loyalty, regional differences, and purchasing patterns vary?
 # Data Source 
-The project leverages open-source datasets from Instacart, complemented by specially created customer datasets. These resources are integral to addressing the outlined business questions. Instacart Data Sets.
+The project leverages open-source datasets from Instacart, complemented by specially created customer datasets. These resources are integral to addressing the outlined business questions. 
+Instacart Data Sets. <a href="https://1drv.ms/f/s!AtJqXqNSJxOyp3DSEcf2Q_KsMkjC?e=klFEm5"> Data </a>
 # Data Sets
 1. Orders
 2. Orders_products_prior
@@ -46,7 +47,7 @@ The insights derived from this analysis will cater to:
 # Project Structure/Folders
 1. Data/: Separated into two subfolders containing the original (raw) datasets and the prepared (data frames after cleaning and merging multiple datasets to create a comprehensive data frame) dataset used for analysis.
 2. Project Management/: Includes project brief and data dictionary.
-3. Scripts/: Jupyter notebooks documenting the coding for analysis process and key findings. Includes Python scripts for data cleaning, merging, analysis, and visualization.
+3. Scripts/: Jupyter notebooks documenting the coding for the analysis process and key findings. Includes Python scripts for data cleaning, merging, analysis, and visualization.
 4. Sent to Client/: Final report summarizing the analysis, insights, and recommendations for Instacart stakeholders.
 5. Analysis/: Data visualizations generated during the analysis and used for explaining insights. 
 # Usage 
